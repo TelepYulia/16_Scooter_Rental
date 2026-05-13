@@ -8,3 +8,4 @@ jobs:
       - name: Build Docker Image
         run: docker build -t scooter-app .
  
+ 
