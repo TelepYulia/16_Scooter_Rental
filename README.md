@@ -5,9 +5,9 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) 
 ![DevOps](https://img.shields.io/badge/DevOps-Docker-blue)
 
-Ці інструкції допоможуть вам розгорнути копію проєкту на локальній машині за допомогою Docker.
+Клонування проєкту
+Щоб скопіювати проєкт на свій комп'ютер, виконайте команду:
 
-###Клонування проєкту
 ```bash
-git clone [https://github.com/ВАШ_ЛОГІН/16_Scooter_Rental](https://github.com/ВАШ_ЛОГІН/16_Scooter_Rental)
+git clone [https://github.com/TelepYulia/16_Scooter_Rental.git](https://github.com/TelepYulia/16_Scooter_Rental.git)
 cd 16_Scooter_Rental
